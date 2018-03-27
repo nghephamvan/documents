@@ -1,0 +1,20 @@
+1. git checkout v1.0
+2. coding in v1.0
+3. git status
+4. git branch XXbarnXXX
+5. git checkout XXbarnXXX
+6. git add -u
+7. git commit -m  "[ticket][action] comment"
+8. git push origin XXbarnXXX
+9. git checkout v
+
+Tạo branch: git checkout -b  "xxxx"
+C2:
+4
+5
+2
+3
+6
+7
+8
+
